@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #43919B;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    color: #04009A;
+}
+
+h1 h2 {
+    font-family: 'Send Flowers', cursive;
+}
+
+img {
+    width: 30vw;
+    border-radius: 40%;
+    border: 5px solid #247881;
+}
+
+.float_left {
+    float: left;
+}
+
+.article {
+    margin: auto;
+    width: 40vw;
+    height: 600px;
+}
+
+.first_p {
+    padding-top: 100px;
+}
+
+.two {
+    padding-top: 100px;
+}
+
+.three {
+    padding-top: 50px;
+}
+
+.end {
+    padding-top: 100px;
+}
